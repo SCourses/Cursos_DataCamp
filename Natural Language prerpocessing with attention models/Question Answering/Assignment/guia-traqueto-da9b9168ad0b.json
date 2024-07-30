@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "guia-traqueto",
+  "private_key_id": "da9b9168ad0ba8185cc5c7eb3926d10cdca5285e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxmef0j5CHi1TF\ntIludKTrsKSjuCjAdulvOzgxxI+dKLSIWr8ZjbBxb4EsCx6yb8qwDI9kC8vTz5i/\nZXtsKdxsZRDCJeQO8glUDXfBb/1zc6qC/0UtZpy8ES8YASg6ivcJuwiW1Lb7KU2Z\nLEdsVctscYjBxgSAek+p3M4/Dykn5v6JUxXYkB20hLLicEpvlxvoggzhsHDQsiGD\nZvLsFmY4Y0/mu9n3UjYCFdnmMU0n1aioz1t05bCUz/w5L+L5g9cTMEnbksDpeVl4\n8yofBwBA8NkCBfr10Irpi7yMBCLgGgQRzOUCYTGesGAt8xqyJwHv44CF/Ii2dCsw\nkLV8rn6DAgMBAAECggEABqFcS4ELQEQvXKzUxKQ40/kQQccfnlp8ydjyzB4ueQuK\npzHcGIl1oNvXfVwc6pnJ01tkrwjRtI1M1+MOAd0TjD2/ARXbtxh0yLKIBKy4UEBt\nM97GfQoWUonBsapkD2tzYDr0oyI7LT0+1w0UIt3rw5dUJ7J2JeXAZkhcBXanbq8y\nUkVJG0lqg5NBRq/nKwirMyNPZ0tzmyjDFmB2j+E4Ji4NlTO13EY0cd+MX5KSBNSz\nTdr29ZNONbcJsOOrzBvbzJ8HyZ3kcKGhVgfAdRSy9njbHgh/RTOpDQ/rne3Wk54n\nbF7npxFAT3I1vj9enNOuOkskGOGWA1aobRXbV2jwQQKBgQDsohe024XASDtNuVTt\n9JGGoJpavV6hr6gPYVis5jsoxIroKdI1YOa6llpTchDEcTEgqsR3Zts0DpVmV2uH\n6Z4GSBmkbCR4F0UuxufAgBU60CZg34pfPbH3dqxd465rf0Bh7IOyVFtPiT+4k8sH\npeXUDrtIduJqc0OKp2fRi+h2qQKBgQDAIvuwK4Mhm/QQ1Ucc1f/E37U03mfTvRyr\nZ5QavTHfWLCHw3lL3HJh4eXXLp9SOlWOALwfSjYs5amOxkfXY1xE0KbbN96nSLW0\nbUrExeLW05UmW9ySDgeZpqsfRCd8Wlsy1Pa+0ev/3abMqfG3Fyzo5Q9GkM8tgwPe\ngT9yP0nDSwKBgQDcx1dK/M5L2pjKKbKd2WO1sj6RjsGuJU+uGes8Vgq4PLhFaE+i\nUei0Cff4hyIxxlJJ4kowBR1b8odd1w6S3lr8DWUvTV6xVTTNMfOkXVxxZSeJlsdp\nmQxkkKq9ZuKjlTSiqKMvTRlsmeeD9RCm8BgAxEXklFcnbqeDxDFPBzQ7EQKBgFJW\na4+Khg6AG66fB3OHDa2bxLbcXJgzobaek6yFyXqSMkxr624kEWx69xko5KPDVeid\nzgCGuAKzhN8nf6AA94iR9f9ZyPPdR+kDMRh0SQqQ74jZswNwObeR4iFq/pTez9hP\nxVHu+fjTTujEJ060As3nY410/yPc0mqm7r6R+pVTAoGAejyz/+Hja5Y1PrT5/5Sy\ntfb2opyChLtApmEt8VER9lC2uIzKJMC2/fUBvLvium8XFVMkXCGRaiQjf08vrZjD\nlh/4nSk6kNnNO5CUKQlFA5KyK/5cwDL2A/dqQwk1M1wxenN+Y39leU9tlH8KL2UY\n6LyD0JcejRHkZm7DLgJgdck=\n-----END PRIVATE KEY-----\n",
+  "client_email": "export@guia-traqueto.iam.gserviceaccount.com",
+  "client_id": "111666261419902557364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/export%40guia-traqueto.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
